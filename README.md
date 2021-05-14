@@ -1,1 +1,1 @@
-Github-finder reacr application
+Github-finder React.js application
